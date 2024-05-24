@@ -1,0 +1,39 @@
+.navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
+}
+.nav-link{
+    font-size: 20px;
+    font-weight: 600;
+}
+.navbar{
+    background-color:#88def0;
+}
+#hello{
+    font-size: 25px;
+    font-weight: 600;
+}
+#name{
+    font-size:35px;
+    font-weight: bold;
+}
+#element{
+    font-size: 25px;
+}
+#para{
+    font-size: 20px;
+    font-weight: 600;
+}
+a{
+    color:black
+}
+a:hover{
+    color: black;
+    text-decoration: none;
+}
+
+footer{
+    margin-top:10px;
+}
+ 
+
